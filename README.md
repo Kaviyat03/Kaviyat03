@@ -114,21 +114,6 @@ An agriculture-focused application built for Smart India Hackathon (SIH), aimed 
 - Worked in an **Agile Scrum environment** with Git and team collaboration.
 - Integrated **REST APIs** for smooth frontend–backend communication.
 
----
-
-### 📜 Certifications
-
-> _No certifications listed on resume yet — this section will be updated as certifications are earned._
-
----
-
-### 🏆 Achievements
-
-> _No formal achievements/awards listed on resume yet — this section will be updated as milestones are reached._
->
-> 🌟 Notable highlight: Contributed to a **Smart India Hackathon (SIH)** project — the Crop Disease Analyzer.
-
----
 
 ### 🎓 Education
 
