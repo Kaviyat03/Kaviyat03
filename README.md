@@ -152,32 +152,3 @@ I aim to build and contribute to projects that solve real-world problems — fro
   <!-- Replace href="#" with your actual LinkedIn URL -->
  
 
-
-### 📊 GitHub Statistics
-
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to activate these widgets.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
-</p>
-
-<p align="center">⭐️ Thanks for visiting my profile — always open to connecting and collaborating!</p>
