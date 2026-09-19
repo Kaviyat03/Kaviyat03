@@ -150,15 +150,8 @@ I aim to build and contribute to projects that solve real-world problems — fro
   <a href="mailto:kaviyathanaraj@gmail.com"><img src="https://img.shields.io/badge/Email-kaviyathanaraj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a><br/>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-kaviya%20thanaraj-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a><br/>
   <!-- Replace href="#" with your actual LinkedIn URL -->
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Link%20Here-9cf?style=flat-square&logo=google-chrome&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/LeetCode-Add%20Link%20Here-FFA116?style=flat-square&logo=leetcode&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/HackerRank-Add%20Link%20Here-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/CodeChef-Add%20Link%20Here-5B4638?style=flat-square&logo=codechef&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Codeforces-Add%20Link%20Here-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Add%20Link%20Here-000000?style=flat-square&logo=x&logoColor=white" />
-</p>
+ 
 
----
 
 ### 📊 GitHub Statistics
 
